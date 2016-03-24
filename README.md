@@ -91,7 +91,7 @@ be used in place of the defaults listed above. For example:
   "ignore":        "Test.js|Spec.js", // used as RegExp,
   "jsx":           true,
   "reporter":      "json",
-  "suppress":      100,
+  "suppress":      100
 }
 ```
 
